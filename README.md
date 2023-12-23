@@ -1,5 +1,11 @@
 # Unsupervised Image Denoising with Learned DAMP and SURE Loss
 
+Nagharjun M - nm4074
+
+Abirami S - as16288
+
+Sai Pranaswi M - sm11006
+
 ## Project Overview
 This project focuses on finetuning the Learned DAMP (LDAMP) model for unsupervised image denoising, adapting it to different standard deviations of Additive White Gaussian Noise (AWGN).
 
