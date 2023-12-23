@@ -52,8 +52,8 @@ Look at the bottom of the page.
 2. Update the data_path and model_path as per your configuration.
 
 ## Results
-<img width="567" alt="image" src="https://github.com/Nagharjun17/Unsupervised_Image_Denoising/assets/64778259/20aa7825-c736-4978-91ad-caee01b8b3a9">
-<img width="679" alt="image" src="https://github.com/Nagharjun17/Unsupervised_Image_Denoising/assets/64778259/965bf9df-ef2b-49f4-9aa5-532f71b8b0ab">
+<img width="300" alt="image" src="https://github.com/Nagharjun17/Unsupervised_Image_Denoising/assets/64778259/20aa7825-c736-4978-91ad-caee01b8b3a9">
+<img width="300" alt="image" src="https://github.com/Nagharjun17/Unsupervised_Image_Denoising/assets/64778259/965bf9df-ef2b-49f4-9aa5-532f71b8b0ab">
 
 
 ## References and Acknowledgements
