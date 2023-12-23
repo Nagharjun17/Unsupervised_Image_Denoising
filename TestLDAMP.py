@@ -14,13 +14,11 @@ parser.add_argument(
     "--data_path",
     type=str,
     default="/scratch/nm4074/imageprocessing/D-AMP_Toolbox/LDAMP_TensorFlow/TrainingData",
-    # default="/Users/arjun17/Documents/D-AMP_Toolbox/LDAMP_TensorFlow/TrainingData",
     help="Dataset path")
 parser.add_argument(
     "--model_path",
     type=str,
     default="/scratch/nm4074/imageprocessing/D-AMP_Toolbox/LDAMP_TensorFlow/saved_models/LDAMP",
-    # default="/Users/arjun17/Documents/D-AMP_Toolbox/LDAMP_TensorFlow/saved_models/LDAMP",
     help="Saved model path")
 FLAGS, unparsed = parser.parse_known_args()
 
