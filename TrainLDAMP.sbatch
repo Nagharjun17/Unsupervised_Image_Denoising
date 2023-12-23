@@ -5,7 +5,7 @@
 #SBATCH --ntasks-per-node=1              
 #SBATCH --mem=32GB                     
 #SBATCH --gres=gpu:rtx8000:1
-#SBATCH --time=01:00:00                
+#SBATCH --time=24:00:00                
 #SBATCH --output=TrainLDAMP.%j.out      
 #SBATCH --error=TrainLDAMP.%j.err      
 
